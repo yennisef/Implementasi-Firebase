@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732620980220",
+    "project_id": "mainra-studio---japanese-lofi",
+    "firebase_url": "gs://mainra-studio---japanese-lofi.appspot.com",
+    "storage_bucket": "mainra-studio---japanese-lofi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732620980220:android:78e1ed95d4e7a2003fbc79",
+        "android_client_info": {
+          "package_name": "com.MainraStudio.JapaneseLofi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732620980220-mg464fcc9frs3kkf4dpm7j4lh57luebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5ykOW3mC0Ikn8C7NXSB7ewwAwOThCUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732620980220-mg464fcc9frs3kkf4dpm7j4lh57luebk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
