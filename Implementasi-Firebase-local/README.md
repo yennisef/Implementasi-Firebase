@@ -1,3 +1,3 @@
-# Implementasi-Firebase
-## Assignment Chapter 8 Game Progrogramming Studi Independen Agate
-Save/Load user progress (local)
+# nama game: Implementasi-Firebase
+penugasan Chapter 8 Game Progrogramming Studi Independen Agate
+local
